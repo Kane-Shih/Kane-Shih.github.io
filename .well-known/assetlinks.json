@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.kaneshih.testfdl",
+    "sha256_cert_fingerprints":
+    ["30:8A:45:14:46:18:A3:45:BD:C1:B6:75:FA:0A:CE:45:6F:DE:5A:40:5E:F7:0B:9F:63:CA:C0:FB:B8:3B:7C:15"]
+  }
+}]
